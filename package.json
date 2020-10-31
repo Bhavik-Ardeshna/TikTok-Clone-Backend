@@ -1,0 +1,17 @@
+{
+  "name": "tiktok-backend",
+  "version": "1.0.0",
+  "description": "Full backend for tiktok react app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "arvik",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.11",
+    "nodemon": "^2.0.6"
+  }
+}
